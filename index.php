@@ -1,0 +1,4 @@
+<?php
+
+hecho "hola mundo"
+?>
